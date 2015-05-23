@@ -15,7 +15,7 @@ SimpleVideo: http://<font color="blue">imzker.com/</font>v.youku.com/v_show/id_X
 
 <pre>
 <div style="height:600px">
-<iframe src="./ChromeExtenstion-dev/sv/options.htm" width="100%" height="100%"> </iframe>
+<iframe src="https://raw.githubusercontent.com/DD-L/SimpleVideo/master/ChromeExtenstion-dev/sv/options.htm" width="100%" height="100%"> </iframe>
 <div>
 </pre>
 
