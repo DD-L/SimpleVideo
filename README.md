@@ -13,9 +13,41 @@ SimpleVideo: http://<font color="blue">imzker.com/</font>v.youku.com/v_show/id_X
 2. [./ChromeExt/sv.crx](./ChromeExt/sv.crx)
 3. [Chrome 网上应用商店店] 暂未提交
 
+
+--------------------------------------------------------
+
+>## 关于API中的token:
+>>
+1. SimpleVideo API: [https://github.com/DD-L/SimpleVideo-API.git](https://github.com/DD-L/SimpleVideo-API.git)
+
+>>
+2. 代码中的$TOKEN为敏感信息, 请到API提供者那里申请
+
+>>>* /source/d-l.top.class.php 中的$TOKEN 请到 [D-L.top](http://d-l.top) 申请
+>>>* /source/Flvxz.class.php 中的$TOKEN 请到 [flvxz.com](http://www.flvxz.com) 申请（友情提示：flvxz.com已阵亡）
+>>>* /source/Id97.class.php 当前已不对外开放API
+
+> 欲了解更多信息, 请访问[D-L.top](http://d-l.top)
+
+-------------------------------------------------------
+
+> ###SimpleVideo 特性：
+>> 
+1. 面向接口, 易于对音视频解析API站点的扩展.
+2. 为便于使用SimpleVideo, 提供hrome *sv*插件; 插件无需干预可自动更新.
+3. 数据缓存: 自动缓存; 缓存手动刷新; 缓存清理.
+4. 支持在线观看.
+5. 无源站点广告，链接对外暴露，可自由下载.
+6. 支持url rewrite, 访问更加直观
+7. *容我想一会儿* ^_^
+
+---------------------------------------------------------
+
+> ###Chrome sv插件options页:
+>>
 <pre>
-<div>
-<h3>Simple video</h3>
+<div style="line-height:50%">
+<h3>Simple Video</h3>
 <p>
 示例视频地址： http://v.youku.com/v_show/id_XNzc0NzgzMTc2.html <br>
 使用方法：<br>
@@ -54,33 +86,6 @@ http://<font color="#E935B6"><b>n/</b></font>v.youku.com/v_show/id_XNzc0NzgzMTc2
 </div>
 </div>
 </pre>
-
---------------------------------------------------------
-
->## 关于API中的token:
->>
-1. SimpleVideo API: [https://github.com/DD-L/SimpleVideo-API.git](https://github.com/DD-L/SimpleVideo-API.git)
-
->>
-2. 代码中的$TOKEN为敏感信息, 请到API提供者那里申请
-
->>>* /source/d-l.top.class.php 中的$TOKEN 请到 [D-L.top](http://d-l.top) 申请
->>>* /source/Flvxz.class.php 中的$TOKEN 请到 [flvxz.com](http://www.flvxz.com) 申请（友情提示：flvxz.com已阵亡）
->>>* /source/Id97.class.php 当前已不对外开放API
-
-> 欲了解更多信息, 请访问[D-L.top](http://d-l.top)
-
--------------------------------------------------------
-
-> ###SimpleVideo 特性：
->> 
-1. 面向接口, 易于对音视频解析API站点的扩展.
-2. 为便于使用SimpleVideo, 提供hrome *sv*插件; 插件无需干预可自动更新.
-3. 数据缓存: 自动缓存; 缓存手动刷新; 缓存清理.
-4. 支持在线观看.
-5. 无源站点广告，链接对外暴露，可自由下载.
-6. 支持url rewrite, 访问更加直观
-7. *容我想一会儿* ^_^
 
 ---------------------------------------------------------
 
