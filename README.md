@@ -13,6 +13,11 @@ SimpleVideo: http://<font color="blue">imzker.com/</font>v.youku.com/v_show/id_X
 2. [./ChromeExt/sv.crx](./ChromeExt/sv.crx)
 3. [Chrome 网上应用商店店] 暂未提交
 
+>> ######插件options页:
+
+>>>
+* [sv/options.htm](http://d-l.top/documents/simplevideo_ChromeExtenstion-dev/options.htm) 包含使用方法
+
 
 --------------------------------------------------------
 
@@ -40,16 +45,6 @@ SimpleVideo: http://<font color="blue">imzker.com/</font>v.youku.com/v_show/id_X
 5. 无源站点广告，链接对外暴露，可自由下载.
 6. 支持url rewrite, 访问更加直观
 7. *容我想一会儿* ^_^
-
----------------------------------------------------------
-
-> ###Chrome sv插件options页:
->>
-<pre>
-<div style="height:600px">
-<iframe src="http://d-l.top/documents/simplevideo_ChromeExtenstion-dev/options.htm" width="100%" height="100%"> </iframe>
-</div>
-</pre>
 
 ---------------------------------------------------------
 
