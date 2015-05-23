@@ -15,7 +15,7 @@ SimpleVideo: http://<font color="blue">imzker.com/</font>v.youku.com/v_show/id_X
 
 <pre>
 <div style="height:600px">
-<iframe src="./ChromeExtenstion-dev/sv/options.htm" width="100%" height="100%"></iframe>
+<iframe src="./ChromeExtenstion-dev/sv/options.htm" width="100%" height="100%"> </iframe>
 <div>
 </pre>
 
@@ -32,7 +32,7 @@ SimpleVideo: http://<font color="blue">imzker.com/</font>v.youku.com/v_show/id_X
 >>>* /source/Flvxz.class.php 中的$TOKEN 请到 [flvxz.com](http://www.flvxz.com) 申请（友情提示：flvxz.com已阵亡）
 >>>* /source/Id97.class.php 当前已不对外开放API
 
-> 更多信息请访问[D-L.top](http://d-l.top)
+> 欲了解更多信息, 请访问[D-L.top](http://d-l.top)
 
 -------------------------------------------------------
 
