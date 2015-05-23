@@ -1,0 +1,57 @@
+<div style="border:1px solid #F1DFE1; width:50px; height:50px; position:fixed;right:0px;top:0px;">
+	<div style="text-align: center">
+		<form action="" method="post">
+			<input type="hidden" name="refresh" value="true"></input>
+			<input type="image" src="/refresh.png" height="30" width="30" title="Refresh Cache" onclick="this.form.submit()">
+		</form>
+	</div>
+	<div style="text-align: center; font-size:12px; margin:1 0 0 0">&#x5237;&#x65B0;&#x7F13;&#x5B58;</div>
+</div>
+
+<div style="text-align: center">
+	<div style="text-align: center">
+		<img src="http://g4.ykimg.com/1100641F4655004E0FE11D18B4BF7F840D54ED-2016-C89B-274C-D9E9D04E31B2" alt="女神爱大白 拒做苹果婊 150312" title="女神爱大白 拒做苹果婊 150312"/>
+		<div style="text-align:center; padding:2px">
+			<h5>女神爱大白 拒做苹果婊 150312 ( from 优酷网 ):</h5>
+		</div>
+	</div>
+</div><hr><div class="fragment"><font><b>单段_标清_MP4</b></font> <font style="font-size:60%">[mp4]</font>: <a href="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/mp4/fileid/030020010055004D265FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=07855de136f6e0f4282a50f0&hd=0&ymovie=1&myp=0&ts=393&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BHgdJjALshTei%2FnUrTwZjGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3" target="_blank" title="[00:00-&gt;06:33, 14.04MB]"  tooltips="[00:00-&gt;06:33, 14.04MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/mp4/fileid/030020010055004D265FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=07855de136f6e0f4282a50f0&hd=0&ymovie=1&myp=0&ts=393&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BHgdJjALshTei%2FnUrTwZjGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3"></input>
+	<input type="hidden" name="quality" value="单段_标清_MP4"></input>
+	<input type="hidden" name="title" value="女神爱大白 拒做苹果婊 150312"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>分段_超清_FLV</b></font> <font style="font-size:60%">[flv]</font>: <a href="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/flv/fileid/030001020055005AF75FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=c2b106b4af673586282a50f0&hd=2&ymovie=1&myp=0&ts=205&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFgNJgALshTei%2FnE%2BnwJjGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3" target="_blank" title="[00:00-&gt;03:25, 27.3MB]"  tooltips="[00:00-&gt;03:25, 27.3MB]" >01</a> <a href="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_02/st/flv/fileid/030001020155005AF75FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=93e940bb8f673538241222b0&hd=2&ymovie=1&myp=0&ts=188&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFgNJgALohTei%2FnE%2BnwJjGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3" target="_blank" title="[03:25-&gt;06:33, 28.76MB]"  tooltips="[03:25-&gt;06:33, 28.76MB]" >02</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/flv/fileid/030001020055005AF75FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=c2b106b4af673586282a50f0&hd=2&ymovie=1&myp=0&ts=205&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFgNJgALshTei%2FnE%2BnwJjGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3|http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_02/st/flv/fileid/030001020155005AF75FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=93e940bb8f673538241222b0&hd=2&ymovie=1&myp=0&ts=188&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFgNJgALohTei%2FnE%2BnwJjGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3"></input>
+	<input type="hidden" name="quality" value="分段_超清_FLV"></input>
+	<input type="hidden" name="title" value="女神爱大白 拒做苹果婊 150312"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>单段_高清_M3U8</b></font> <font style="font-size:60%">[m3u8]</font>: <a href="http://pl.youku.com/playlist/m3u8?ts=1426233843&keyframe=0&vid=XOTA5OTE4NDMy&type=mp4&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXJZ1km6A%2FrYXBMVQNaHQmzrWwQ%3D%3D&sid=542623580183412012dd5&token=2476&ctype=12&ev=1&oip=3079203019" target="_blank" title="[00:00-&gt;06:33, 0MB]"  tooltips="[00:00-&gt;06:33, 0MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://pl.youku.com/playlist/m3u8?ts=1426233843&keyframe=0&vid=XOTA5OTE4NDMy&type=mp4&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXJZ1km6A%2FrYXBMVQNaHQmzrWwQ%3D%3D&sid=542623580183412012dd5&token=2476&ctype=12&ev=1&oip=3079203019"></input>
+	<input type="hidden" name="quality" value="单段_高清_M3U8"></input>
+	<input type="hidden" name="title" value="女神爱大白 拒做苹果婊 150312"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>分段_高清_MP4</b></font> <font style="font-size:60%">[mp4]</font>: <a href="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/mp4/fileid/0300080100550058D05FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=ac7764073b79e0fd282a50f0&hd=1&ymovie=1&myp=0&ts=393&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFidJjALshTei%2FnDalx5jGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3" target="_blank" title="[00:00-&gt;06:33, 25.68MB]"  tooltips="[00:00-&gt;06:33, 25.68MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/mp4/fileid/0300080100550058D05FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=ac7764073b79e0fd282a50f0&hd=1&ymovie=1&myp=0&ts=393&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFidJjALshTei%2FnDalx5jGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3"></input>
+	<input type="hidden" name="quality" value="分段_高清_MP4"></input>
+	<input type="hidden" name="title" value="女神爱大白 拒做苹果婊 150312"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>单段_超清_M3U8</b></font> <font style="font-size:60%">[m3u8]</font>: <a href="http://pl.youku.com/playlist/m3u8?ts=1426233843&keyframe=0&vid=XOTA5OTE4NDMy&type=hd2&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXJZ1km6A%2FrYXBMVQNaHQmzrWwQ%3D%3D&sid=542623580183412012dd5&token=2476&ctype=12&ev=1&oip=3079203019" target="_blank" title="[00:00-&gt;06:33, 0MB]"  tooltips="[00:00-&gt;06:33, 0MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://pl.youku.com/playlist/m3u8?ts=1426233843&keyframe=0&vid=XOTA5OTE4NDMy&type=hd2&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXJZ1km6A%2FrYXBMVQNaHQmzrWwQ%3D%3D&sid=542623580183412012dd5&token=2476&ctype=12&ev=1&oip=3079203019"></input>
+	<input type="hidden" name="quality" value="单段_超清_M3U8"></input>
+	<input type="hidden" name="title" value="女神爱大白 拒做苹果婊 150312"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>单段_标清_M3U8</b></font> <font style="font-size:60%">[m3u8]</font>: <a href="http://pl.youku.com/playlist/m3u8?ts=1426233843&keyframe=0&vid=XOTA5OTE4NDMy&type=flv&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXJZ1km6A%2FrYXBMVQNaHQmzrWwQ%3D%3D&sid=542623580183412012dd5&token=2476&ctype=12&ev=1&oip=3079203019" target="_blank" title="[00:00-&gt;06:33, 0MB]"  tooltips="[00:00-&gt;06:33, 0MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://pl.youku.com/playlist/m3u8?ts=1426233843&keyframe=0&vid=XOTA5OTE4NDMy&type=flv&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXJZ1km6A%2FrYXBMVQNaHQmzrWwQ%3D%3D&sid=542623580183412012dd5&token=2476&ctype=12&ev=1&oip=3079203019"></input>
+	<input type="hidden" name="quality" value="单段_标清_M3U8"></input>
+	<input type="hidden" name="title" value="女神爱大白 拒做苹果婊 150312"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>分段_标清_FLV</b></font> <font style="font-size:60%">[flv]</font>: <a href="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/flv/fileid/030002010055004BF45FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=91fadf9da6485bab241222b0&hd=0&ymovie=1&myp=0&ts=393&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFg9JjALshTei%2FnUynw5jGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3" target="_blank" title="[00:00-&gt;06:33, 13.34MB]"  tooltips="[00:00-&gt;06:33, 13.34MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://k.youku.com/player/getFlvPath/sid/542623580183412012dd5_01/st/flv/fileid/030002010055004BF45FEF18B4BF7FCEDFAC92-E19B-E47A-336C-945580974C02?K=91fadf9da6485bab241222b0&hd=0&ymovie=1&myp=0&ts=393&ypp=2&ctype=12&ev=1&token=2476&oip=3079203019&ep=dyaWHEuOU8YA5CvcjD8bZy3gICMKXP4J9h%2BFg9JjALshTei%2FnUynw5jGO4lDHosdAFQBZpiE36aWGUkWYYVCoBoQqkqvSPrj%2FfaQ5aRXwZUIZhAxdr7XtlScRzf3"></input>
+	<input type="hidden" name="quality" value="分段_标清_FLV"></input>
+	<input type="hidden" name="title" value="女神爱大白 拒做苹果婊 150312"></input>
+	<input type="submit" value=" Play "></input>
+</form></div>
+<script src="/ab/js/tips.js"></script>
+<script src="/ab/js/logo.js"></script>
+</body></html>
+

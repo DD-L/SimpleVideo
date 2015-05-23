@@ -1,0 +1,6 @@
+此文件夹里的源代码可能包含敏感信息，提交开源库时请留意。
+
+例如：
+	file: d-l.top.class.php $TOKEN
+	file: Flvxz.class.php $TOKEN
+	

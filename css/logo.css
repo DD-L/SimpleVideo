@@ -1,0 +1,17 @@
+.logo {
+	border: 3px solid #F6F6F6;
+	border-radius: 7px;
+	width: 200px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 26px;
+	background: #e5eae0;
+	position:fixed;left:0px;top:0px;
+	display:none;
+}
+.ext {
+	font-family: 'lato', helvetica, arial, sans-serif;
+	font-weight: 100;
+	font-size: 13px;
+}

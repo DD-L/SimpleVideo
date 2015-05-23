@@ -1,0 +1,37 @@
+<div style="border:1px solid #F1DFE1; width:50px; height:50px; position:fixed;right:0px;top:0px;">
+	<div style="text-align: center">
+		<form action="" method="post">
+			<input type="hidden" name="refresh" value="true"></input>
+			<input type="image" src="/refresh.png" height="30" width="30" title="Refresh Cache" onclick="this.form.submit()">
+		</form>
+	</div>
+	<div style="text-align: center; font-size:12px; margin:1 0 0 0">&#x5237;&#x65B0;&#x7F13;&#x5B58;</div>
+</div>
+
+<div style="text-align: center">
+	<div style="text-align: center">
+		<img src="http://g4.ykimg.com/1100641F4654C5B9CF302A13C124C095470B81-B515-68FA-2A2F-29167BD454AA" alt="【Youtube奇趣精选】涨姿势了！街舞原来这么跳" title="【Youtube奇趣精选】涨姿势了！街舞原来这么跳"/>
+		<div style="text-align:center; padding:2px">
+			<h5>【Youtube奇趣精选】涨姿势了！街舞原来这么跳 ( from 优酷网 ):</h5>
+		</div>
+	</div>
+</div><hr><div class="fragment"><font><b>单段_标清_MP4</b></font> <font style="font-size:60%">[mp4]</font>: <a href="http://k.youku.com/player/getFlvPath/sid/742252914415012695b33_01/st/mp4/fileid/030020010054C5BDB9630113C124C0F3FE2C2D-2853-E0E4-89F9-CE9C853054D9?K=9342265bc8b0800b241216a0&hd=0&myp=0&ts=235&ypp=2&ctype=12&ev=1&token=6023&oip=3079203019&ep=dSaWGEyPX88E4SLaiD8bYSXnJnQMXP4J9h%2BHgdJjALshTJu660qjzpuzTv5DFYoYcCZ1EJ3y3aXlGUJgYfJLrGsQqk7dPfro94bq5d4mzeMIYxo2d8mjvVSYQzLy" target="_blank" title="[00:00-&gt;03:55, 8.48MB]"  tooltips="[00:00-&gt;03:55, 8.48MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://k.youku.com/player/getFlvPath/sid/742252914415012695b33_01/st/mp4/fileid/030020010054C5BDB9630113C124C0F3FE2C2D-2853-E0E4-89F9-CE9C853054D9?K=9342265bc8b0800b241216a0&hd=0&myp=0&ts=235&ypp=2&ctype=12&ev=1&token=6023&oip=3079203019&ep=dSaWGEyPX88E4SLaiD8bYSXnJnQMXP4J9h%2BHgdJjALshTJu660qjzpuzTv5DFYoYcCZ1EJ3y3aXlGUJgYfJLrGsQqk7dPfro94bq5d4mzeMIYxo2d8mjvVSYQzLy"></input>
+	<input type="hidden" name="quality" value="单段_标清_MP4"></input>
+	<input type="hidden" name="title" value="【Youtube奇趣精选】涨姿势了！街舞原来这么跳"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>分段_标清_FLV</b></font> <font style="font-size:60%">[flv]</font>: <a href="http://k.youku.com/player/getFlvPath/sid/742252914415012695b33_01/st/flv/fileid/030002010054C5B9CC630113C124C0F3FE2C2D-2853-E0E4-89F9-CE9C853054D9?K=8bf2e86692598e78261e25b6&hd=0&myp=0&ts=235&ypp=2&ctype=12&ev=1&token=6023&oip=3079203019&ep=dSaWGEyPX88E4SLaiD8bYSXnJnQMXP4J9h%2BFg9JjALshTJu66zeitJuzTv5DFYoYcCZ1EJ3y3aXlGUJgYfJLrGsQqk7dPfro94bq5d4mzeMIYxo2d8mjvVSYQzLy" target="_blank" title="[00:00-&gt;03:55, 8.07MB]"  tooltips="[00:00-&gt;03:55, 8.07MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://k.youku.com/player/getFlvPath/sid/742252914415012695b33_01/st/flv/fileid/030002010054C5B9CC630113C124C0F3FE2C2D-2853-E0E4-89F9-CE9C853054D9?K=8bf2e86692598e78261e25b6&hd=0&myp=0&ts=235&ypp=2&ctype=12&ev=1&token=6023&oip=3079203019&ep=dSaWGEyPX88E4SLaiD8bYSXnJnQMXP4J9h%2BFg9JjALshTJu66zeitJuzTv5DFYoYcCZ1EJ3y3aXlGUJgYfJLrGsQqk7dPfro94bq5d4mzeMIYxo2d8mjvVSYQzLy"></input>
+	<input type="hidden" name="quality" value="分段_标清_FLV"></input>
+	<input type="hidden" name="title" value="【Youtube奇趣精选】涨姿势了！街舞原来这么跳"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>单段_标清_M3U8</b></font> <font style="font-size:60%">[m3u8]</font>: <a href="http://pl.youku.com/playlist/m3u8?ts=1422529070&keyframe=0&vid=XODc5ODE0NTE2&type=flv&ep=dSaWGEyPX88E4SLaiD8bYSXnJnQMXJZ1gkyA%2FqYXAMVAPerQnz7TxA%3D%3D&sid=742252914415012695b33&token=6023&ctype=12&ev=1&oip=3079203019" target="_blank" title="[00:00-&gt;03:55, 8.61MB]"  tooltips="[00:00-&gt;03:55, 8.61MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://pl.youku.com/playlist/m3u8?ts=1422529070&keyframe=0&vid=XODc5ODE0NTE2&type=flv&ep=dSaWGEyPX88E4SLaiD8bYSXnJnQMXJZ1gkyA%2FqYXAMVAPerQnz7TxA%3D%3D&sid=742252914415012695b33&token=6023&ctype=12&ev=1&oip=3079203019"></input>
+	<input type="hidden" name="quality" value="单段_标清_M3U8"></input>
+	<input type="hidden" name="title" value="【Youtube奇趣精选】涨姿势了！街舞原来这么跳"></input>
+	<input type="submit" value=" Play "></input>
+</form></div>
+<script src="/ab/js/tips.js"></script>
+<script src="/ab/js/logo.js"></script>
+</body></html>
+

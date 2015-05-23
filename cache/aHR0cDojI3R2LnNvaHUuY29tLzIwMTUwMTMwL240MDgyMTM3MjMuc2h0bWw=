@@ -1,0 +1,37 @@
+<div style="border:1px solid #F1DFE1; width:50px; height:50px; position:fixed;right:0px;top:0px;">
+	<div style="text-align: center">
+		<form action="" method="post">
+			<input type="hidden" name="refresh" value="true"></input>
+			<input type="image" src="/refresh.png" height="30" width="30" title="Refresh Cache" onclick="this.form.submit()">
+		</form>
+	</div>
+	<div style="text-align: center; font-size:12px; margin:1 0 0 0">&#x5237;&#x65B0;&#x7F13;&#x5B58;</div>
+</div>
+
+<div style="text-align: center">
+	<div style="text-align: center">
+		<img src="" alt="泰迪熊2首支预告片" title="泰迪熊2首支预告片"/>
+		<div style="text-align:center; padding:2px">
+			<h5>泰迪熊2首支预告片 ( from 搜狐视频 ):</h5>
+		</div>
+	</div>
+</div><hr><div class="fragment"><font><b>分段_标清_MP4</b></font> <font style="font-size:60%">[mp4]</font>: <a href="http://122.228.219.148/sohu/s26h23eab6/5/135/12/WwS6mBkgRoK1dZ33Ogmb2A.mp4?key=jYb-7pH5qWiQIqVheaG5Y2tJrShhIaRfcoJ-1aZ8nu8." target="_blank" title="[00:00-&gt;02:40, 5.63MB]"  tooltips="[00:00-&gt;02:40, 5.63MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://122.228.219.148/sohu/s26h23eab6/5/135/12/WwS6mBkgRoK1dZ33Ogmb2A.mp4?key=jYb-7pH5qWiQIqVheaG5Y2tJrShhIaRfcoJ-1aZ8nu8."></input>
+	<input type="hidden" name="quality" value="分段_标清_MP4"></input>
+	<input type="hidden" name="title" value="泰迪熊2首支预告片"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>分段_高清_MP4</b></font> <font style="font-size:60%">[mp4]</font>: <a href="http://122.228.219.144/sohu/s26h23eab6/1/159/26/hOpKjt12Q9rFT4sf0oaPDD.mp4?key=5xNZpjeFQK5Z1_bgDNjfhwg_frbk16wa42xwUsT3Bys." target="_blank" title="[00:00-&gt;02:40, 9.26MB]"  tooltips="[00:00-&gt;02:40, 9.26MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://122.228.219.144/sohu/s26h23eab6/1/159/26/hOpKjt12Q9rFT4sf0oaPDD.mp4?key=5xNZpjeFQK5Z1_bgDNjfhwg_frbk16wa42xwUsT3Bys."></input>
+	<input type="hidden" name="quality" value="分段_高清_MP4"></input>
+	<input type="hidden" name="title" value="泰迪熊2首支预告片"></input>
+	<input type="submit" value=" Play "></input>
+</form></div><hr><div class="fragment"><font><b>分段_超清_MP4</b></font> <font style="font-size:60%">[mp4]</font>: <a href="http://61.175.103.204/sohu/s26h23eab6/10/83/52/jE4QPp0PTFCYrRFcvRYfOD.mp4?key=BqFFOtOVPxlAqpIKcJ8u_2Eusr2J2BM1-Qk9M11B3hI." target="_blank" title="[00:00-&gt;02:40, 19.44MB]"  tooltips="[00:00-&gt;02:40, 19.44MB]" >01</a> <form action="/play" method="post" target="_blank">
+	<input type="hidden" name="flvurl" value="http://61.175.103.204/sohu/s26h23eab6/10/83/52/jE4QPp0PTFCYrRFcvRYfOD.mp4?key=BqFFOtOVPxlAqpIKcJ8u_2Eusr2J2BM1-Qk9M11B3hI."></input>
+	<input type="hidden" name="quality" value="分段_超清_MP4"></input>
+	<input type="hidden" name="title" value="泰迪熊2首支预告片"></input>
+	<input type="submit" value=" Play "></input>
+</form></div>
+<script src="/ab/js/tips.js"></script>
+<script src="/ab/js/logo.js"></script>
+</body></html>
+

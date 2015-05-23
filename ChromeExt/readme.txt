@@ -1,0 +1,2 @@
+updateInfo.xml 里的版本号必须和crx里的一样，且appid 必须正确
+appid为敏感信息，提交开源社区时要留意
